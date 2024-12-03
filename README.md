@@ -1,4 +1,5 @@
-Repository for statistical practical at LMU Munich regarding the drying off of lactating cows. Evaluation of a complex decision scheme for antibiotic usage during the dry-off period in lactating cows.\\
+Repository for statistical practical at LMU Munich regarding the drying off of lactating cows. Evaluation of a complex decision scheme for antibiotic usage during the dry-off period in lactating cows.
+
 Corresponding publication: [Untersuchungen zu einem kontrollierten, entscheidungsbaumbasierten Verfahren des Selektiven Trockenstellens in Bayerischen Milchviehbetrieben](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2272-3195)
 
 ## Description
